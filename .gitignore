@@ -1,0 +1,31 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+backend/db.sqlite3
+
+# Flutter generated files
+FlutterProjectFrontend/login_app/.dart_tool/
+FlutterProjectFrontend/login_app/build/
+FlutterProjectFrontend/login_app/.idea/
+FlutterProjectFrontend/login_app/.metadata
+FlutterProjectFrontend/login_app/.gradle/
+FlutterProjectFrontend/login_app/.packages
+FlutterProjectFrontend/login_app/.flutter-plugins
+FlutterProjectFrontend/login_app/.flutter-plugins-dependencies
+FlutterProjectFrontend/login_app/.pub-cache/
+FlutterProjectFrontend/login_app/.dart_tool/
+FlutterProjectFrontend/login_app/build/
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+.vscode/
+
+# macOS / Windows
+.DS_Store
+desktop.ini
+
+# Backup / temp directories
+backend_backup/
